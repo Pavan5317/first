@@ -18,10 +18,7 @@ more-itertools
 oauthlib
 ptyprocess
 pyparsing
-python-apt
 python-dateutil
-pytz
-pyxdg
 PyYAML
 requests
 systemd-python
