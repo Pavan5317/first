@@ -9,7 +9,6 @@ httplib2
 idna
 importlib-metadata
 keyring
-language-selector
 launchpadlib
 lazr.restfulclient
 lazr.uri
